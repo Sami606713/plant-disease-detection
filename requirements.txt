@@ -6,3 +6,4 @@ opencv-python>=4.7.0.68
 matplotlib>=3.3.2
 scikit-learn>=0.9
 flask>=1.1.2
+streamlit-option-menu
