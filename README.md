@@ -12,13 +12,17 @@ To use the model for leaf disease detection, follow these steps:
 ```
 python -m venv venv
 ```
-2. Make sure you have a Python environment set up with the necessary libraries installed. You can use the provided requirements.txt file to set up the required dependencies.
+2. Activate the environment
+``
+ .\venv\Scripts\activate
+```
+3. Make sure you have a Python environment set up with the necessary libraries installed. You can use the provided requirements.txt file to set up the required dependencies.
 
 ```
 pip install -r requirements.txt
 ```
 
-2. Run main.py
+4. Run main.py
 
 ```
 streamlit run main.py 
